@@ -3,8 +3,11 @@
 2. Email :   alexander98magnus@gmail.com  
    Phone number :  +375 29 672 71 75   
 3. I want to get experience with new technologies and new programming languages, meet new interesting people and и and just pick my brain with a new kind of activity! 
-4. Skills (e.g. programming languages, frameworks, methodologies, version control, tools etc.).
+4. Have work experience with Java and _ABAP_.
 5.
+``` javascript
+    (a,b) => {a + b}
+```
 6. 
 7. *Education*: 
    - This summer graduated from BSUIR( engineering-economic facult ).
