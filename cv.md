@@ -8,7 +8,7 @@
 ``` javascript
     (a,b) => {a + b}
  ```
-6. I've been working for the last six months as SAP ABAP-_developer_.
+6. I've been working for the last six months as SAP ABAP-developer.
 7. *Education*: 
    - This summer graduated from BSUIR( engineering-economic facult ).
    - Institute of IT&Business Administration. Course of Java Programming Language.
