@@ -1,21 +1,23 @@
-.flex-container{
+.flex-container {
   display: flex;
   flex-direction: column;
   justify-content: center;
   align-items: center;
-  
+  width: 100%;
+  max-width: 1024px;
+  margin-left: 230px;
 }
 
 img{
   width: 900px;
   height: 700px;
 }
-.my-flex-cv {
-  margin-right: 55%;;
 
+.my-flex-cv {
+  margin-right: 78%;;
 }
 
-.my-name{
+.my-name {
   margin: auto;
 }
 
