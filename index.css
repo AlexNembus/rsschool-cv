@@ -1,0 +1,34 @@
+.flex-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+  max-width: 1024px;
+  margin-left: 230px;
+}
+
+img{
+  width: 900px;
+  height: 700px;
+}
+
+.my-flex-cv {
+  margin-right: 78%;;
+}
+
+.my-name {
+  margin: auto;
+}
+
+.vrungel {                       
+  margin-left: 40%;;
+}
+
+.js-expml {
+  width: 20%;
+  height: 20px;
+  background-color: rgba(0, 120, 201, 0.2); 
+  text-align: center;   
+  color: black;
+}
